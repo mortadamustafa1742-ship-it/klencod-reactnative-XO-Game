@@ -1,0 +1,5 @@
+{
+  "name": "XOGame",
+  "displayName": "XO Game",
+  "android": {"packageName": "com.gameingxo.tiiny.site"}
+}
